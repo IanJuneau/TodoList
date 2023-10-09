@@ -13,7 +13,7 @@ data_Path = Path.cwd() / Path('data.txt')
 #Getting username
 username = getpass.getuser()
 #Initializing command variable
-
+#test
 
 #Function list
 def display():
